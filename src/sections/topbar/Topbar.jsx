@@ -64,23 +64,10 @@ export default function Topbar() {
                         </a>
                     </div>
 
-                    {/* <Badge/> */}
-                    {/* <a href="#" target=''>
-                        <div className="items">
-                            <Badge className="icons"/>
-                            <span>GITHUB</span>
-
-                        </div>
-                    </a> */}
+                   
 
 
-                    {/* <div className="ham" onClick={()=> setMenuOpen(!menuOpen)}>
-                        <span className='line1'> </span>
-                        <span className='line2'> </span>
-                        <span className='line3'> </span>
-
-                    </div> */}
-
+                  
 
                 </div>
             </div>
